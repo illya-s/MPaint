@@ -1,0 +1,12 @@
+Version: 1.0.0.0 # Версия вашей программы
+CompanyName: CompanyName # Название компаниии (или что угодно)
+FileDescription: PaintApp # Название программы
+InternalName: PaintApp # Название программы
+LegalCopyright: © CompanyName. # Название компаниии (или что угодно)
+OriginalFilename: MP.exe # Название файла из команды pyinstaller
+ProductName: PaintApp # Название программы
+Translation: # Просто нужно чтоб было
+  - langID: 0
+    charsetID: 1200
+  - langID: 1033
+    charsetID: 1252
